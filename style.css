@@ -1,8 +1,7 @@
 .home-header
 {
 
-    background-image: url(/img/background1.jpg);
-    background: rgb(255, 238, 0);
+        background: rgb(255, 238, 0);
     color:black;
     padding: 70px;
     }
@@ -38,7 +37,7 @@
 {
     width: 350px;
     background: #fff;
-    margin: 10px auto; 
+    margin: 10px auto;
     border-radius: 3px;
 }
 .title-box
@@ -61,7 +60,7 @@ form label{
     color: #999;
     margin-top: 15px;
     margin-bottom: 3px;
-    font-size: 14px; 
+    font-size: 14px;
 }
 .input-box{
     width: 280px; height: 40px;
