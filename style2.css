@@ -1,0 +1,19 @@
+
+
+img {
+    border-radius: 70%;
+    padding: 5px;
+}
+
+body{
+    background-color: ""
+}
+table.review{
+    border: 1px double; 
+}
+th,tr, td{
+    padding: 2px;
+}
+/*p{
+    font-size: 15px;
+}*/
