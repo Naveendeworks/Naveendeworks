@@ -1,93 +1,166 @@
-.home-header {
+div {
+  background-color: #e4f9f5;
+}
 
-    background: orange;
-    color: black;
-    padding: 70px;
+.copyrights {
+  margin-bottom: 0px;
+}
+
+.bottom-container {
+  padding: 15px;
+}
+
+.skills {
+  padding: "";
+  height: "";
+  background-color: white;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Nuniton sans', Maven Pro, arial;
+}
+
+.skill-row {
+  
+  background-color: white;
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+h4{
+  text-align: right;
+  padding: 30px;
+}
+
+.h4-angular{
+  text-align: left;
+  padding: 70px auto 60 70;
 }
 
 h1 {
-    text-align: center;
+  font-family: sacramento, helvetica, sans-serif;
+  font-size: 90px;
+  margin: 50px auto 0 auto;
+  margin-left: 500px;
+  width: 40%;
+  text-align: center;
+  color: #66bfbf;
+
+
 }
 
-p {
-    text-align: center;
+h2 {
+  color: #66bfbf;
+  font-family: 'Nuniton Sans', sans-serif;
+  font-size: 2.5rem;
+  margin: 0px auto 0 auto;
+  padding-top: 45px;
+  text-align: center;
+  margin-top: 0px;
+  padding-top: 0px;
+  margin-left: 40px;
+  font-weight: normal;
+
 }
 
-.logo {
-    height: 40px;
-    margin: 20px;
+h3 {
+  color: #11999e;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.angular-img{
+  float: right;
+  width: 200px;
+  height: 200px;
+}
+.html-img{
+  width: 200px;
+  float: left;
+  height: 200px;
 }
 
-.home-head .row {
-    padding-top: 10%;
-    padding-bottom: 30%;
+.skill-images {
+  position: relative;
+  height: 200px;
+  width: 202px;
+  bottom: 380px;
+  right: 380px;
 }
 
-.promo-text-box {
-    margin-top: 15%;
+
+.angular {
+  position: relative;
+  height: 200px;
+  width: 200px;
+  bottom: 370px;
+  left: 300px;
 }
 
-.promo-text-box h1 {
-    margin-bottom: 25px;
+#hr1 {
+
+  border-bottom-width: 0px;
+  border-top-width: 1px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  border-right-width: 0px;
+
+}
+.contact-me {
+  padding-bottom: 60px;
+  position: relative;
+  background-color: white;
+
 }
 
-.play-btn {
-    width: 40px;
-    margin: 20px;
+
+
+.table {
+  table-layout: fixed;
+  text-align: center;
 }
 
-.lead-form {
-    width: 350px;
-    background: #fff;
-    margin: 10px auto;
-    border-radius: 3px;
+.td {
+  text-align: center;
 }
 
-.title-box {
-    background: rgba(255, 166, 0, 0.404);
-    height: 150px;
-    padding-top: 10px;
-    border-bottom-left-radius: 200px 50px;
-    border-bottom-right-radius: 200px 50px;
+.top-container {
+  background-color: #e4f9f5;
+  padding-top: 80px;
+  padding-bottom: "";
 }
 
-.submit-button {
-    padding-left: 50px;
-    padding-right: 50px;
-    margin: 20px;
+.profile {
+  padding-top: "";
+  background-color: white;
+  padding-bottom: "";
+  height: 550px;
+
 }
 
-form label {
-    float: left;
-    margin-left: 30px;
-    color: #999;
-    margin-top: 15px;
-    margin-bottom: 3px;
-    font-size: 14px;
+img.pic {
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
 }
 
-.input-box {
-    width: 280px;
-    height: 40px;
-    padding: 0 5px;
-    border: 1px solid #ccc;
-    border-radius: 3px;
-    color: #999
+.middle-container {
+
+height: 80%;
+  background-color: white;
 }
 
-.input-box::placeholder {
-    color: #999;
+.bottom-container {
+
+  background-color: #ece8d9;
 }
 
-.submit-button {
-    width: 280;
-    height: 60px;
-    color: #fff;
-    font-weight: 600;
-    background-color: #915b4a;
-    border: none;
-    border-radius: 3px;
-    margin-top: 20px;
-    cursor: pointer;
-    margin-bottom: -30px;
+.bottom-cloud {
+  margin-bottom: 350px
+}
+
+.top-cloud {
+  position: "";
+  margin-left: 600px;
 }

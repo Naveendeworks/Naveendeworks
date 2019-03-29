@@ -1,0 +1,93 @@
+.home-header {
+
+    background: orange;
+    color: black;
+    padding: 70px;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+.logo {
+    height: 40px;
+    margin: 20px;
+}
+
+.home-head .row {
+    padding-top: 10%;
+    padding-bottom: 30%;
+}
+
+.promo-text-box {
+    margin-top: 15%;
+}
+
+.promo-text-box h1 {
+    margin-bottom: 25px;
+}
+
+.play-btn {
+    width: 40px;
+    margin: 20px;
+}
+
+.lead-form {
+    width: 350px;
+    background: #fff;
+    margin: 10px auto;
+    border-radius: 3px;
+}
+
+.title-box {
+    background: rgba(255, 166, 0, 0.404);
+    height: 150px;
+    padding-top: 10px;
+    border-bottom-left-radius: 200px 50px;
+    border-bottom-right-radius: 200px 50px;
+}
+
+.submit-button {
+    padding-left: 50px;
+    padding-right: 50px;
+    margin: 20px;
+}
+
+form label {
+    float: left;
+    margin-left: 30px;
+    color: #999;
+    margin-top: 15px;
+    margin-bottom: 3px;
+    font-size: 14px;
+}
+
+.input-box {
+    width: 280px;
+    height: 40px;
+    padding: 0 5px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    color: #999
+}
+
+.input-box::placeholder {
+    color: #999;
+}
+
+.submit-button {
+    width: 280;
+    height: 60px;
+    color: #fff;
+    font-weight: 600;
+    background-color: #915b4a;
+    border: none;
+    border-radius: 3px;
+    margin-top: 20px;
+    cursor: pointer;
+    margin-bottom: -30px;
+}

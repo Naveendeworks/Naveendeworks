@@ -1,0 +1,69 @@
+body {
+    background-color: orange;
+}
+
+
+h1 {
+    color: whitesmoke;
+    font-size: 60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+
+}
+
+/* commenting on image styling here */
+h2 {
+    text-align: center;
+    color: darkgreen;
+    text-transform: capitalize;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h3 {
+    display: none;
+    /* visibility: hidden; for taking up the space in the html page */
+}
+
+.a {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.b {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: brown;
+}
+
+.image-styling
+
+/** website image background*/
+    {
+    background-color: orange;
+    display: table;
+    float: left;
+    padding-right: 1.5cm;
+    width: 40%;
+
+    /* margin-left: auto;
+    margin-right: auto;*/
+    /*padding-left: 400px;
+    padding-right: 400px; */
+    /*width: 50%;*/
+
+}
+.image-styling1:hover{
+    background-color: darkgreen;
+}
+
+.image-styling1 {
+    background-color:"";
+    display: table;
+    float: left;
+    width: 55%;
+}
+.image-styling:hover{
+    background-color: red;
+}
+
+/* comment on Hello, we are creating a website */
