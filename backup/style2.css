@@ -3,10 +3,12 @@
 
 
 body{
-    background-color: #e4f9f5;}
+    background-color: #e4f9f5;
+    font-family: 'Nuniton sans', Maven Pro, arial;
+  }
 table.review{
-    border: 1px double; 
-    
+    border: 1px double;
+
 }
 h1,h2,h3,h4{
     color: #226597;
@@ -23,7 +25,7 @@ hr{
     border-top-style: dotted;
     border-width: 5px;
     width: 5%;
-    
+
 
 }
 th,tr, td{

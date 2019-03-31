@@ -20,7 +20,7 @@ div {
   display: inline-block;
   font-size: 16px;
   margin: 4px 2px;
-  cursor: pointer;
+  cursor: grabbing;
   -webkit-transition-duration: 0.4s; /* Safari */
   transition-duration: 0.4s;
 }
@@ -41,6 +41,23 @@ body {
   margin: 0;
   text-align: center;
   font-family: 'Nuniton sans', Maven Pro, arial;
+}
+hr{
+  
+  margin-top: 0px;
+  border-top-width: 5px;
+  border-left-width: 0px;
+  margin-bottom: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+  padding-top: 20px;
+  border-style: dotted;
+  margin-left: 680px;
+  margin-right: 0px;
+  width: 200px;
+  text-align: center;
+  /* background-color: #66bfbf; */
+  color: #66bfbf;
 }
 
 .skill-row {
